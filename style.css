@@ -160,3 +160,119 @@ body{
     padding: 26px 639px 0 640px;
     width: 161px;
 }
+.new_artefacts{
+    font-family: "Open Sans", sans-serif;
+    font-size: 48px; 
+    font-weight: bold italic;
+    color: white;
+}
+.kurish{
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px; 
+    font-weight: bold ;
+    color:#1D2F30;
+    padding: 0 39px 8px 16px;
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+.art_text{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px; 
+    font-weight: bold ;
+    color:#506829;
+    padding-bottom: 35px;
+}
+.description{
+    max-width: 255px;
+    background-color:#BAE249 ;
+    margin-left: 30px;
+    padding: 0 16px 0 16px;
+    width: 255px;
+}
+.chit{
+    display: flex;
+}
+.chit-t{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px; 
+    font-weight: bold ;
+}
+.art_photos{
+    display: flex;
+}
+.sec3{
+    padding-bottom: 60px;
+}
+.sec4{
+    position: relative;
+    max-width: 1440px;
+    height: 490px;   
+	background: 
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    /* затем твой цветовой оверлей (можно чуть снизить α) */
+    linear-gradient(rgba(0, 80, 120, 0.5), rgba(0, 80, 120, 0.5)),
+		url(assets/sec4.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.help{
+    font-family: "Open Sans", sans-serif;
+    font-size: 48px; 
+    font-weight: bold italic;
+    color: white;    
+    padding-top: 60px;
+    padding-bottom: 16px;
+}
+.help_text{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px; 
+    color: white; 
+    width: 825px; 
+    margin-left: 165px;
+}
+.form-group input {
+    width: 280px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 24px;
+    margin-left: 165px;
+}
+.but_sec_4{
+    color: black;
+    background-color: #BAE249;
+    padding: 11.5px 26px;
+    border: none;
+    margin-left: 165px;
+    margin-top: 24px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px; 
+    font-weight: bold;
+}
+.foot{
+    background-color:#0B1919 ;
+    display: grid;
+    place-items: center;  
+}
+.footer-icons{
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+.twit{
+    padding-right: 34px;
+}
+.fadf{
+    background-color: #1D2F30;
+    max-width: 1440px;
+    padding-right: 720px;
+    padding-left: 640px;
+}
+.fff_t{
+
+    width: 80px;
+    margin-bottom: 0px;
+}
