@@ -2,6 +2,9 @@ body{
     margin: 0;
     width: 1440px;
 }
+html {
+      scroll-behavior: smooth;
+    }
 .header-flex{
     background-color:#1D2F30 ;
 
